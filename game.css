@@ -1,0 +1,40 @@
+.box{
+    width: 80%;
+    height: 80vh;
+    margin:8%;
+    
+    border:5px solid pink;
+    display:flex;
+}
+.barbie{
+    width: 500px;
+    height:auto;
+    border:1px solid black;
+    
+    
+}
+.doll{
+    width:500px;
+    height:auto;
+}
+.selections{
+    width:500px;
+    height:auto;
+    background-color: blue;
+}
+.dresses{
+    display:flex;
+   
+   flex:1;
+}
+.black{
+    border: 1px solid black;
+}
+.white{
+    border: 1px solid black;
+    
+    overflow: hidden;
+}
+.blue{
+    border: 1px solid black;
+}
